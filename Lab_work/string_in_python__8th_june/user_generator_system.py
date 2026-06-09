@@ -1,3 +1,14 @@
+# A student enters: 
+# Rahul Sharma 
+# Tasks 
+# Generate a username using the rules: 
+# 1. Remove spaces.  
+# 2. Convert to lowercase.  
+# 3. Append current year (2026).  
+# 4. If username length exceeds 12, keep only first 12 characters.  
+# 5. Count vowels in the generated username.  
+# 6. Count consonants.  
+# 7. Display username statistics. 
 #Program for username generator system
 name = "Rahul Sharma"
 
